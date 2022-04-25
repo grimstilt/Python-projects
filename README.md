@@ -1,2 +1,2 @@
-# hyperskill
-Jetbrains python projects
+
+python projects
